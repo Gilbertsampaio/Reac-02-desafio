@@ -1,6 +1,11 @@
 {
   "genres": [
     {
+      "id": 0,
+      "name": "all",
+      "title": "Todos"
+    },
+    {
       "id": 1,
       "name": "action",
       "title": "Ação"
